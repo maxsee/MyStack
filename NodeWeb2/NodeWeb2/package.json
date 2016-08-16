@@ -1,0 +1,15 @@
+{
+  "name": "node-web2",
+  "version": "0.0.0",
+  "description": "NodeWeb2",
+  "main": "app.js",
+  "author": {
+    "name": "mmatviyuk",
+    "email": ""
+  },
+    "dependencies": {
+        "body-parser": "^1.15.1",
+        "express": "^4.13.4",
+        "amqplib": "^0.4.1"
+    }
+}

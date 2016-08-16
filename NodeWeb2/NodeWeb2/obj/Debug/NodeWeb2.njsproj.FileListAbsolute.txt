@@ -1,0 +1,2 @@
+c:\users\mmatviyuk\documents\visual studio 2015\Projects\NodeWeb2\NodeWeb2\obj\Debug\NodeWeb2.njsprojResolveAssemblyReference.cache
+c:\users\mmatviyuk\documents\visual studio 2015\Projects\NodeWeb2\NodeWeb2\bin\Microsoft.NodejsTools.WebRole.dll

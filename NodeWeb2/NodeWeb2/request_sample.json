@@ -1,0 +1,13 @@
+﻿{
+    "user": {
+        "user_id": "gerasim",
+        "fname": "Moshe",
+        "lname": "Abromovich",
+        "age": 28,
+        "address": {
+            "city": "Los Angeles",
+            "state": "CA",
+            "street": "obama street, 12"
+        }
+    }
+}
